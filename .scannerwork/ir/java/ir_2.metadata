@@ -1,0 +1,24 @@
+logic.Analyzer#analyzeProject(Ljava/lang/String;I)Ljava/util/List;
+logic.Analyzer#setAllSize(Ljava/util/List;)V
+logic.Analyzer#getMetrics(Ljava/lang/String;I)Ljava/util/List;
+logic.Analyzer#isBugged(Ljava/lang/String;I)Z
+logic.FileMetrics#getFileMetricsFromName(Ljava/util/List;I)Ljava/util/List;
+logic.Analyzer#findMaxInteger(Ljava/util/List;)Ljava/lang/Integer;
+logic.Analyzer#getFilesName(Ljava/lang/String;I)Ljava/util/List;
+logic.Analyzer#switchVersion(Ljava/lang/String;)V
+==
+setMAXchurn logic.FileMetrics#setMAXchurn(I)V
+setNF logic.FileMetrics#setNF(I)V
+getName logic.FileMetrics#getName()Ljava/lang/String;
+getVersion logic.FileMetrics#getVersion()I
+setLOCtouched logic.FileMetrics#setLOCtouched(I)V
+get java.util.List#get(I)Ljava/lang/Object;
+isEmpty java.util.List#isEmpty()Z
+setAVGLOCadded logic.FileMetrics#setAVGLOCadded(D)V
+setLOCadded logic.FileMetrics#setLOCadded(I)V
+setNR logic.FileMetrics#setNR(I)V
+setMAXLOCadded logic.FileMetrics#setMAXLOCadded(I)V
+setAVGchurn logic.FileMetrics#setAVGchurn(D)V
+setChurn logic.FileMetrics#setChurn(I)V
+setBugged logic.FileMetrics#setBugged(Z)V
+size java.util.List#size()I

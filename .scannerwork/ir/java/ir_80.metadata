@@ -1,0 +1,6 @@
+logic.Ticket#getProportional(Ljava/util/List;)I
+java.lang.Math#round(D)J
+==
+getFixedVersion logic.Ticket#getFixedVersion()I
+getInjectedVersion logic.Ticket#getInjectedVersion()I
+getOpenVersion logic.Ticket#getOpenVersion()I

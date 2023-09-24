@@ -1,0 +1,7 @@
+logic.Ticket#readAll(Ljava/io/Reader;)Ljava/lang/String;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#toString()Ljava/lang/String;
+==
+read java.io.Reader#read()I

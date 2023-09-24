@@ -1,0 +1,7 @@
+logic.Ticket#findFixedVersion(Ljava/lang/String;Ljava/util/List;)I
+java.time.LocalDateTime#isBefore(Ljava/time/chrono/ChronoLocalDateTime;)Z
+java.time.LocalDateTime#parse(Ljava/lang/CharSequence;)Ljava/time/LocalDateTime;
+==
+getReleaseDate logic.Release#getReleaseDate()Ljava/time/LocalDateTime;
+get java.util.List#get(I)Ljava/lang/Object;
+size java.util.List#size()I

@@ -1,0 +1,4 @@
+logic.Analyzer#isFixedTicket(Ljava/lang/String;)Z
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getTicketID logic.Ticket#getTicketID()Ljava/lang/String;

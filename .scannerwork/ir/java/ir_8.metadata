@@ -1,0 +1,4 @@
+logic.Analyzer#getInsertions(Ljava/lang/String;)Ljava/lang/Integer;
+java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;
+logic.Analyzer#extractNumber(Ljava/lang/String;)Ljava/lang/Integer;
+java.lang.String#contains(Ljava/lang/CharSequence;)Z

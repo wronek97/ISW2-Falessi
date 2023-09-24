@@ -1,0 +1,4 @@
+logic.Analyzer#getTicketByName(Ljava/lang/String;)Llogic/Ticket;
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getTicketID logic.Ticket#getTicketID()Ljava/lang/String;

@@ -1,0 +1,82 @@
+
+/logic.Ticket#getProportional(Ljava/util/List;)I{
+o/C:/Users/Wronek/Documents/1 - Universit√†/Magistrale/Anno 2023-2024/ISW2/ProjectAnalyzer/src/logic/Ticket.javaæ æ(#"4*±
+2
+– –(â
+Ü
+
+– –(!
+
+%3long"java.lang.Math#round(D)J*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+"""
+
+– –("
+""*ı
+4
+∆ ∆(K
+I
+
+∆ ∆(
+tlogic.Ticket"__id*"
+
+__unknown_file (
+""ã
+à
+
+∆ ∆(
+tlogic.Ticket"
+__arrayGet*7
+
+__unknown_file (
+
+ticketsjava.util.List*"
+
+__unknown_file (
+""*	
+2
+6
+1*í
+5
+…	 …(
+|z
+
+…	 …(	
+%1int"logic.Ticket#getOpenVersion()I*/
+
+__unknown_file (
+
+tlogic.Ticket2getOpenVersion()~|
+
+ 	  (	
+%2int"logic.Ticket#getFixedVersion()I*/
+
+__unknown_file (
+
+tlogic.Ticket2getFixedVersion()*
+4*ü
+6
+« «(	ÖÇ
+
+« «(	
+%0int""logic.Ticket#getInjectedVersion()I*/
+
+__unknown_file (
+
+tlogic.Ticket2getInjectedVersion()*
+4
+5*%
+1
+”	 ”(
+"
+
+” ”(
+"":'
+
+æ$ æ(8
+ticketsjava.util.ListB"
+logic.TicketP

@@ -1,0 +1,8 @@
+logic.Ticket#setProportional(Ljava/util/List;)V
+logic.Ticket#min(II)I
+logic.Ticket#getProportional(Ljava/util/List;)I
+==
+setInjectedVersion logic.Ticket#setInjectedVersion(I)V
+getFixedVersion logic.Ticket#getFixedVersion()I
+getInjectedVersion logic.Ticket#getInjectedVersion()I
+getOpenVersion logic.Ticket#getOpenVersion()I

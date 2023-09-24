@@ -1,0 +1,6 @@
+logic.Analyzer#setAllSize(Ljava/util/List;)V
+logic.Analyzer#getFileSize(Ljava/lang/String;I)I
+==
+getName logic.FileMetrics#getName()Ljava/lang/String;
+getVersion logic.FileMetrics#getVersion()I
+setSize logic.FileMetrics#setSize(I)V

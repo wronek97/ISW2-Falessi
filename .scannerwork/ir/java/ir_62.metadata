@@ -1,0 +1,8 @@
+logic.FileMetrics#getFileMetricsFromName(Ljava/util/List;I)Ljava/util/List;
+java.util.ArrayList#<init>()V
+logic.FileMetrics#instance-init#
+java.util.ArrayList#instance-init#
+logic.FileMetrics#<init>(Ljava/lang/String;I)V
+==
+add java.util.List#add(Ljava/lang/Object;)Z
+get java.util.List#get(I)Ljava/lang/Object;

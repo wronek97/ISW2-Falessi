@@ -1,0 +1,67 @@
+
+9logic.Release#readAll(Ljava/io/Reader;)Ljava/lang/String;|
+p/C:/Users/Wronek/Documents/1 - UniversitÃ /Magistrale/Anno 2023-2024/ISW2/ProjectAnalyzer/src/logic/Release.java† †("4*í
+2
+Š Š(ÖÓ
+
+Š Š(
+%3java.lang.StringBuilder":java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;*;
+
+__unknown_file (
+
+sbjava.lang.StringBuilder*"
+
+__unknown_file (
+""2	append(C)*
+3*†
+3
+‰ ‰(mk
+
+‰ ‰(	
+%2int"java.io.Reader#read()I*2
+
+__unknown_file (
+
+rdjava.io.Reader2read()*
+2
+1*Ä
+4
+‡ ‡((FD
+
+‡ ‡(&
+%0java.lang.StringBuilder"java.lang.StringBuildert
+r
+
+‡ ‡((
+%1"!java.lang.StringBuilder#<init>()V*;
+
+__unknown_file (
+
+%0java.lang.StringBuilderp
+n
+
+‡ ‡()
+sbjava.lang.StringBuilder"__id*;
+
+__unknown_file (
+
+%0java.lang.StringBuilder*
+3*à
+1
+Œ	 Œ(¦£
+
+Œ	 Œ(
+%4java.lang.String"4java.lang.StringBuilder#toString()Ljava/lang/String;*;
+
+__unknown_file (
+
+sbjava.lang.StringBuilder2
+toString()"&
+
+Œ Œ(
+
+%4java.lang.String:"
+
+† †((
+rdjava.io.ReaderB"
+logic.Release

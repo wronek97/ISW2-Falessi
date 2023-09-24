@@ -1,0 +1,5 @@
+logic.Ticket#getVersionIndex(Ljava/lang/String;Ljava/util/List;)I
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getVersionID logic.Release#getVersionID()Ljava/lang/String;
+indexOf java.util.List#indexOf(Ljava/lang/Object;)I

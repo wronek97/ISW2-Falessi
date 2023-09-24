@@ -1,0 +1,44 @@
+
+__sonar_lambda_5$z
+p/C:/Users/Wronek/Documents/1 - UniversitÃ /Magistrale/Anno 2023-2024/ISW2/ProjectAnalyzer/src/logic/Release.javaR* R(h"startingBlock*¤
+startingBlockR* R(hƒ
+€
+
+__unknown_file (
+Release.thislogic.Release"__id*?
+
+__unknown_file (#*!
+logic.Release"
+Release.this*
+1*”
+1R6 R(8ª§
+R6 R(I
+%7java.time.LocalDateTime"7logic.Release#getReleaseDate()Ljava/time/LocalDateTime;*1
+
+__unknown_file (
+
+r1logic.Release2getReleaseDate()ª§
+RT R(g
+%8java.time.LocalDateTime"7logic.Release#getReleaseDate()Ljava/time/LocalDateTime;*1
+
+__unknown_file (
+
+r2logic.Release2getReleaseDate()‘Ž
+R6 R(h	
+%9int"Jjava.time.LocalDateTime#compareTo(Ljava/time/chrono/ChronoLocalDateTime;)I*;
+
+__unknown_file (
+
+%7java.time.LocalDateTime*;
+
+__unknown_file (
+
+%8java.time.LocalDateTime21compareTo(Ljava/time/chrono/ChronoLocalDateTime;)"
+R6 R(h
+	
+%9int:
+R+ R(.
+r1logic.Release:
+R/ R(1
+r2logic.ReleaseB
+java.util.Comparator

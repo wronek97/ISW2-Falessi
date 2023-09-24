@@ -1,0 +1,18 @@
+logic.Ticket#getFixedBugTickets(Ljava/lang/String;Ljava/util/List;)Ljava/util/List;
+java.util.ArrayList#<init>()V
+java.time.LocalDateTime#isBefore(Ljava/time/chrono/ChronoLocalDateTime;)Z
+java.util.ArrayList#instance-init#
+logic.Ticket#min(II)I
+java.time.LocalDateTime#parse(Ljava/lang/CharSequence;)Ljava/time/LocalDateTime;
+logic.Ticket#findOpenVersion(Ljava/lang/String;Ljava/util/List;)I
+logic.Ticket#<init>(Ljava/lang/String;Ljava/time/LocalDateTime;Ljava/time/LocalDateTime;III)V
+java.lang.Integer#toString()Ljava/lang/String;
+java.util.Collections#sort(Ljava/util/List;Ljava/util/Comparator;)V
+logic.Ticket#readJsonFromUrl(Ljava/lang/String;)LJSONObject;
+logic.Ticket#findFixedVersion(Ljava/lang/String;Ljava/util/List;)I
+logic.Ticket#instance-init#
+logic.Ticket#getVersionIndex(Ljava/lang/String;Ljava/util/List;)I
+==
+getReleaseDate logic.Release#getReleaseDate()Ljava/time/LocalDateTime;
+add java.util.List#add(Ljava/lang/Object;)Z
+get java.util.List#get(I)Ljava/lang/Object;

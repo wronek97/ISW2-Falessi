@@ -1,0 +1,54 @@
+
+__sonar_lambda_6${
+o/C:/Users/Wronek/Documents/1 - Universit√†/Magistrale/Anno 2023-2024/ISW2/ProjectAnalyzer/src/logic/Ticket.javaÜ( Ü(`"startingBlock*†
+startingBlock
+Ü( Ü(`~
+|
+
+__unknown_file (
+Ticket.thislogic.Ticket"__id*=
+
+__unknown_file (!*
+logic.Ticket"
+Ticket.this*
+1*î
+1
+Ü4 Ü(6•¢
+
+Ü4 Ü(D
+%24java.time.LocalDateTime"3logic.Ticket#getOpenDate()Ljava/time/LocalDateTime;*0
+
+__unknown_file (
+
+t1logic.Ticket2getOpenDate()•¢
+
+ÜO Ü(_
+%25java.time.LocalDateTime"3logic.Ticket#getOpenDate()Ljava/time/LocalDateTime;*0
+
+__unknown_file (
+
+t2logic.Ticket2getOpenDate()ñì
+
+Ü4 Ü(`
+
+%26int"Jjava.time.LocalDateTime#compareTo(Ljava/time/chrono/ChronoLocalDateTime;)I*<
+
+__unknown_file ( 
+
+%24java.time.LocalDateTime*<
+
+__unknown_file ( 
+
+%25java.time.LocalDateTime21compareTo(Ljava/time/chrono/ChronoLocalDateTime;)"
+
+Ü4 Ü(`
+
+
+%26int: 
+
+Ü) Ü(,
+t1logic.Ticket: 
+
+Ü- Ü(/
+t2logic.TicketB
+java.util.Comparator

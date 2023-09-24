@@ -1,0 +1,3 @@
+logic.WekaTools#<init>()V
+java.lang.IllegalStateException#instance-init#
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V

@@ -1,0 +1,7 @@
+organization=wronek97org
+projectKey=wronek97_ISW2-Falessi
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.46586
+dashboardUrl=https://sonarcloud.io/dashboard?id=wronek97_ISW2-Falessi
+ceTaskId=AYrHj9X3TsqNQkuaEmQa
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYrHj9X3TsqNQkuaEmQa

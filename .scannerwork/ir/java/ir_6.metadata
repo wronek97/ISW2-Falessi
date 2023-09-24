@@ -1,0 +1,2 @@
+logic.Analyzer#getFilesName(Ljava/lang/String;I)Ljava/util/List;
+logic.Analyzer#getFilesName(Ljava/lang/String;IZ)Ljava/util/List;

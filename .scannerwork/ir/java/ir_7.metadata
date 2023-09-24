@@ -1,0 +1,19 @@
+logic.Analyzer#getMetrics(Ljava/lang/String;I)Ljava/util/List;
+java.util.ArrayList#<init>()V
+logic.Analyzer#callCMD(Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;
+java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;
+java.util.ArrayList#instance-init#
+java.time.LocalDateTime#toString()Ljava/lang/String;
+logic.Analyzer#extractNumber(Ljava/lang/String;)Ljava/lang/Integer;
+java.lang.String#toUpperCase()Ljava/lang/String;
+java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;
+logic.Analyzer#getInsertions(Ljava/lang/String;)Ljava/lang/Integer;
+java.lang.String#contains(Ljava/lang/CharSequence;)Z
+logic.Analyzer#getDeletions(Ljava/lang/String;)Ljava/lang/Integer;
+logic.Analyzer#isFixedTicket(Ljava/lang/String;)Z
+java.lang.String#startsWith(Ljava/lang/String;)Z
+==
+getReleaseDate logic.Release#getReleaseDate()Ljava/time/LocalDateTime;
+add java.util.List#add(Ljava/lang/Object;)Z
+add java.util.List#add(ILjava/lang/Object;)V
+get java.util.List#get(I)Ljava/lang/Object;

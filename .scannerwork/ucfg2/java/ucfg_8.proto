@@ -1,0 +1,342 @@
+
+Alogic.Analyzer#getFilesName(Ljava/lang/String;IZ)Ljava/util/List;}
+q/C:/Users/Wronek/Documents/1 - Universit√†/Magistrale/Anno 2023-2024/ISW2/ProjectAnalyzer/src/logic/Analyzer.javaö# ö(/"21*»
+13§T §(ëz
+x
+§T §(ë#
+%12java.util.function.Predicate"__declareFunction*1
+
+__unknown_file (
+__sonar_lambda_1$≤Ø
+§ §(í
+%15java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*<
+
+__unknown_file ( 
+
+%11java.util.stream.Stream*A
+
+__unknown_file (%
+#
+%12java.util.function.Predicate2&filter(Ljava/util/function/Predicate;)*
+12*‡
+14
+§- §(Kx
+v
+
+§- §(K"
+%9java.util.function.Predicate"__declareFunction*1
+
+__unknown_file (
+__sonar_lambda_0$õ
+ò
+
+__unknown_file (5
+"
+%9java.util.function.Predicate"
+fileExtension"__id*?
+
+__unknown_file (#
+!
+fileExtensionjava.lang.StringØ¨
+
+§ §(L
+%11java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*;
+
+__unknown_file (
+
+%8java.util.stream.Stream*@
+
+__unknown_file ($
+"
+%9java.util.function.Predicate2&filter(Ljava/util/function/Predicate;)*
+13*£
+15
+§ §(äá
+
+§ §(%
+%8java.util.stream.Stream"Sjava.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;*=
+
+__unknown_file (!
+
+walkjava.util.stream.Stream*"
+
+__unknown_file (
+""2"map(Ljava/util/function/Function;)*
+14*ç
+16
+¢ ¢(?r
+p
+
+¢ ¢(?
+walkjava.util.stream.Stream"__id*;
+
+__unknown_file (
+
+%7java.util.stream.Stream*
+15
+9*ù
+17
+¢ ¢(?Ñ
+Å
+
+¢ ¢(?
+%7java.util.stream.Stream"gjava.nio.file.Files#walk(Ljava/nio/file/Path;[Ljava/nio/file/FileVisitOption;)Ljava/util/stream/Stream;*3
+
+__unknown_file ("
+java.nio.file.Files*6
+
+__unknown_file (
+
+%6java.nio.file.Path*
+16*Í
+18
+¢ ¢(!g
+e
+
+¢1 ¢(=
+%5java.lang.String"__id*9
+
+__unknown_file (
+E:\GitProjects\BookKeeperË
+Â
+
+¢' ¢(>
+%6java.nio.file.Path"Rjava.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;*3
+
+__unknown_file ("
+java.nio.file.Paths*4
+
+__unknown_file (
+
+%5java.lang.String*
+17*û
+19
+ü ü(n
+l
+
+ü ü((
+%2java.util.List"__id*B
+
+__unknown_file (&*$
+logic.Analyzer"
+releaseCommitsã
+à
+
+ü ü(/
+%3java.lang.String"
+__arrayGet*2
+
+__unknown_file (
+
+%2java.util.List*"
+
+__unknown_file (
+""¥
+±
+
+ü ü(0
+
+%4void"1logic.Analyzer#switchVersion(Ljava/lang/String;)V*.
+
+__unknown_file ("
+logic.Analyzer*4
+
+__unknown_file (
+
+%3java.lang.StringQ
+O
+
+° °(
+filesjava.util.List"__id*"
+
+__unknown_file (
+""*
+18*…
+1
+∞ ∞(
+U
+S
+
+∞ ∞(
+%28java.lang.String"__id*&
+
+__unknown_file (
+
+master∂
+≥
+
+∞ ∞( 
+%29void"1logic.Analyzer#switchVersion(Ljava/lang/String;)V*.
+
+__unknown_file ("
+logic.Analyzer*5
+
+__unknown_file (
+
+%28java.lang.String"(
+
+≤ ≤(
+
+resultjava.util.List*÷
+4
+© ©(
+ª
+∏
+
+© ©(
+%24void"
+__arrayAdd*6
+
+__unknown_file (
+
+resultjava.util.List*"
+
+__unknown_file (
+""*5
+
+__unknown_file (
+
+filesjava.util.List*
+19
+1*x
+5
+ß ß(ib
+`
+
+ß ß(i
+filesjava.util.List"__id*3
+
+__unknown_file (
+
+%23java.util.List*
+4*¥
+6
+ß ß(iùö
+
+ß ß(i
+%23java.util.List"Ojava.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;*<
+
+__unknown_file ( 
+
+%21java.util.stream.Stream*?
+
+__unknown_file (#
+!
+%22java.util.stream.Collector2%collect(Ljava/util/stream/Collector;)*
+5*»
+7
+ßU ß(_±
+Æ
+
+ßU ß(h!
+%22java.util.stream.Collector"@java.util.stream.Collectors#toList()Ljava/util/stream/Collector;*;
+
+__unknown_file ("
+java.util.stream.Collectors*
+6*‚
+8
+ß- ß(Ky
+w
+
+ß- ß(K#
+%19java.util.function.Predicate"__declareFunction*1
+
+__unknown_file (
+__sonar_lambda_2$ú
+ô
+
+__unknown_file (6
+#
+%19java.util.function.Predicate"
+fileExtension"__id*?
+
+__unknown_file (#
+!
+fileExtensionjava.lang.String±Æ
+
+ß ß(L
+%21java.util.stream.Stream"Wjava.util.stream.Stream#filter(Ljava/util/function/Predicate;)Ljava/util/stream/Stream;*<
+
+__unknown_file ( 
+
+%18java.util.stream.Stream*A
+
+__unknown_file (%
+#
+%19java.util.function.Predicate2&filter(Ljava/util/function/Predicate;)*
+7*¢
+9
+ß ß(ãà
+
+ß ß(%
+%18java.util.stream.Stream"Sjava.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;*=
+
+__unknown_file (!
+
+walkjava.util.stream.Stream*"
+
+__unknown_file (
+""2"map(Ljava/util/function/Function;)*
+8*∞
+21
+õ õ(/><
+
+õ" õ(-
+%0java.util.ArrayList"java.util.ArrayListl
+j
+
+õ õ(/
+%1"java.util.ArrayList#<init>()V*7
+
+__unknown_file (
+
+%0java.util.ArrayListg
+e
+
+õ õ(0
+resultjava.util.List"__id*7
+
+__unknown_file (
+
+%0java.util.ArrayList*
+19
+1*{
+10§ §(Øc
+a
+§ §(Ø
+filesjava.util.List"__id*3
+
+__unknown_file (
+
+%17java.util.List*
+4*∏
+11§ §(Øûõ
+§ §(Ø
+%17java.util.List"Ojava.util.stream.Stream#collect(Ljava/util/stream/Collector;)Ljava/lang/Object;*<
+
+__unknown_file ( 
+
+%15java.util.stream.Stream*?
+
+__unknown_file (#
+!
+%16java.util.stream.Collector2%collect(Ljava/util/stream/Collector;)*
+10*Œ
+12§õ §(•≥
+∞
+§õ §(Æ!
+%16java.util.stream.Collector"@java.util.stream.Collectors#toList()Ljava/util/stream/Collector;*;
+
+__unknown_file ("
+java.util.stream.Collectors*
+11:/
+
+ö0 ö(E!
+fileExtensionjava.lang.String: 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B"
+logic.Analyzer

@@ -1,0 +1,14 @@
+logic.Analyzer#isBugged(Ljava/lang/String;I)Z
+logic.Analyzer#callCMD(Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;
+java.lang.String#toUpperCase()Ljava/lang/String;
+java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;
+java.lang.String#replace(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Ljava/lang/String;
+java.time.LocalDateTime#toString()Ljava/lang/String;
+logic.Analyzer#extractNumber(Ljava/lang/String;)Ljava/lang/Integer;
+java.lang.String#contains(Ljava/lang/CharSequence;)Z
+logic.Analyzer#getTicketByName(Ljava/lang/String;)Llogic/Ticket;
+==
+getReleaseDate logic.Release#getReleaseDate()Ljava/time/LocalDateTime;
+getFixedVersion logic.Ticket#getFixedVersion()I
+get java.util.List#get(I)Ljava/lang/Object;
+getInjectedVersion logic.Ticket#getInjectedVersion()I

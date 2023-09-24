@@ -1,0 +1,8 @@
+logic.Release#addRelease(Ljava/util/List;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+logic.Release#instance-init#
+java.time.LocalDate#atStartOfDay()Ljava/time/LocalDateTime;
+java.time.LocalDate#parse(Ljava/lang/CharSequence;)Ljava/time/LocalDate;
+logic.Release#isAlreadyAdded(Ljava/time/LocalDateTime;Ljava/util/List;)Z
+logic.Release#<init>(Ljava/lang/String;Ljava/lang/String;Ljava/time/LocalDateTime;)V
+==
+add java.util.List#add(Ljava/lang/Object;)Z

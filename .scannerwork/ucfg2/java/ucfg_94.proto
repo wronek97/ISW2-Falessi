@@ -1,0 +1,77 @@
+
+Alogic.Ticket#getVersionIndex(Ljava/lang/String;Ljava/util/List;)I{
+o/C:/Users/Wronek/Documents/1 - Universit√†/Magistrale/Anno 2023-2024/ISW2/ProjectAnalyzer/src/logic/Ticket.java÷ ÷(#"2*˘
+2
+◊ ◊(N
+L
+
+◊ ◊(
+rellogic.Release"__id*"
+
+__unknown_file (
+""è
+å
+
+◊ ◊(
+rellogic.Release"
+__arrayGet*8
+
+__unknown_file (
+
+releasesjava.util.List*"
+
+__unknown_file (
+""*
+4
+1*˙
+3
+Ÿ Ÿ(“œ
+
+Ÿ Ÿ( 	
+%2int"+java.util.List#indexOf(Ljava/lang/Object;)I*8
+
+__unknown_file (
+
+releasesjava.util.List*2
+
+__unknown_file (
+
+rellogic.Release2indexOf(Ljava/lang/Object;)"
+
+Ÿ Ÿ(#
+""*ì
+4
+ÿ ÿ(õò
+
+ÿ ÿ(*
+%0java.lang.String".logic.Release#getVersionID()Ljava/lang/String;*2
+
+__unknown_file (
+
+rellogic.Release2getVersionID()€ÿ
+
+ÿ ÿ(+
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*;
+
+__unknown_file (
+
+	versionIDjava.lang.String*4
+
+__unknown_file (
+
+%0java.lang.String2equals(Ljava/lang/Object;)*
+2
+3*%
+1
+‹	 ‹(
+"
+
+‹ ‹(
+"":+
+
+÷$ ÷(5
+	versionIDjava.lang.String:(
+
+÷6 ÷(L
+releasesjava.util.ListB"
+logic.TicketP

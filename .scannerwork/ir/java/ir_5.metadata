@@ -1,0 +1,2 @@
+logic.Analyzer#switchVersion(Ljava/lang/String;)V
+logic.Analyzer#callCMD(Ljava/lang/String;[Ljava/lang/String;)Ljava/lang/String;

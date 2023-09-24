@@ -1,0 +1,7 @@
+logic.Release#getAllReleases(Ljava/lang/String;)Ljava/util/List;
+java.util.ArrayList#<init>()V
+java.lang.String#toUpperCase()Ljava/lang/String;
+logic.Release#addRelease(Ljava/util/List;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+java.util.Collections#sort(Ljava/util/List;Ljava/util/Comparator;)V
+java.util.ArrayList#instance-init#
+logic.Release#readJsonFromUrl(Ljava/lang/String;)LJSONObject;
